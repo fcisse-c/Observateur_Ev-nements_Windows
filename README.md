@@ -38,15 +38,3 @@
 | 501-502 | Échec de chargement de zone |
 | 6001-6002 | Problèmes de réplication DNS |
 
-## 🧐 Critères d’acceptation  
-✔️ Configurer la vue personnalisée dans l’Event Viewer avec les critères demandés.  
-✔️ Attribuer un **nom descriptif** à la vue personnalisée.  
-✔️ Exporter la vue au **format XML**.  
-✔️ Ajouter le fichier XML sur un dépôt **GitHub** accompagné d’un **README** expliquant la configuration.
-
-## 📂 Dépôt GitHub  
-Ajoute le fichier **XML** généré ainsi qu’un **README.md** décrivant la configuration et son utilité.
-
----
-
-📌 **Astuce** : Pour exporter la vue, après l’avoir créée, fais un clic droit sur la vue personnalisée > **Exporter la vue personnalisée...** et enregistre-la sous format `.xml`.
